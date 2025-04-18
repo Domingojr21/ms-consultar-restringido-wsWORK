@@ -9,8 +9,8 @@ import jakarta.ws.rs.core.MultivaluedMap;
 /**
  * Interfaz para el servicio de verificación de clientes restringidos
  *
- * @author 
- * @since 15-04-2025
+ * @author Ing. Domingo Ruiz - c-djruiz@banreservas.com
+ * @since 14-04-2025
  * @version 1.0
  */
 public interface IRestrictedClientService {
